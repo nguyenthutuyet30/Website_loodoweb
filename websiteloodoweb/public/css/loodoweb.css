@@ -1,0 +1,453 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nutlandipage {
+    margin-bottom: 50px;
+}
+
+.noidungbanner h3 {
+    padding-top: 52px;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url("../images/Nen/ldldheaderbg-1.jpg");
+    height: auto;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+
+/*------------------Css phan menu va noidunggioithieu-------------- */
+.nutdangky .btn-default:hover {
+    color: white;
+    background-color: black;
+    transition: all 0.6s;
+}
+.nutxemthem .btn-default:hover {
+    background-color: white;
+    color: #ba0031;
+    transition: all 0.6s;
+}
+.nutbatdau .btn-default:hover {
+    background-color: white;
+    color: #ba0031;
+    transition: all 0.6s;
+}
+.noidunggioithieu {
+    padding-top: 200px;
+}
+
+.nutdangky .btn-default {margin-top: 15px;border: none;background: #ba0031;color: white;font-weight: 600;}
+
+.nutxemthem .btn-default {
+    border: none;
+    padding: 6px 26px;
+    background: #ba0031;
+    color: white;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.nutbatdau {
+    position: relative;
+}
+
+.btn-default i {
+    font-size: 16px;
+}
+
+.nutbatdau .btn-default {border-color: transparent;padding: 11px 25px;width: 181px;color: white;background-color: #ba0031;font-weight: 700;position: absolute;right: 0px;bottom: 20px;margin-right: 87px;}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+    background: transparent;
+    transition: all 0.4s;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fad4d7;
+    font-weight: 700;
+}
+
+ul.nav.navbar-nav {
+    padding: 0px 136px;
+}
+
+.navbar-brand>img {
+    height: 32px;
+}
+.navbar-default{
+    padding-top: 25px;
+    border-color: transparent;
+    background: transparent;
+}
+/*-------------Css phan dacdiemlandipage----------------*/
+.nutgia .btn-default:hover {
+    color: white;
+    background-color: #222222;
+    transition: all 0.6s;
+}
+.nutdacdiem .btn-default:hover {
+    color: white;
+    background-color: #222222;
+    transition: all 0.6s;
+}
+hr {
+    border-top: 1px solid #d8d6d6;
+}
+
+.dacdiemlandipage{
+    background-color: white;
+    padding-top: 82px;
+    margin-top: 172px;
+}
+
+.nutdacdiem i {
+    font-size: 18px;
+}
+
+.nutdacdiem .btn-default {
+    margin-top: 36px;
+    background: #e62739;
+    border: none;
+    width: 147px;
+    height: 39px;
+    padding: 10px 26px;
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+    margin-bottom: 86px;
+}
+
+.timhieulandipage p {
+    font-size: 16px;
+}
+
+.timhieulandipage p i {
+    color: #e62739;
+    font-size: 22px;
+}
+
+.timhieulandipage h5 {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+.timhieulandipage h1 {
+    font-weight: 600;
+    font-size: 30px;
+    padding-bottom: 38px;
+}
+
+.timhieulandipage img {
+    width: 480px;
+    max-width: 100%;
+}
+.timhieulandipage span {
+    color: #e62739;
+    font-size: 16px;
+    font-weight: 700;
+}
+.nutgia .btn-default {
+    margin-top: 62px;
+    border: none;
+    background: #e62739;
+    color: white;
+    font-size: 16px;
+    width: 147px;
+    padding: 8px 26px;
+    font-weight: 600;
+    margin-bottom: 82px;
+}
+
+.duongvien {
+    padding-bottom: 48px;
+}
+
+.vientron {
+    border-top: 1px solid #dddddd;
+    border-top-width: 5px;
+    border-top-style: dotted;
+    margin-top: 50px;
+    width: 60%;
+    display: inline-block;
+}
+.dacdiem i {
+    font-size: 50px;
+    margin-top: 20px;
+    color: #e62739;
+}
+.dacdiem h3 {
+    font-size: 22px;
+    font-weight: 600;
+}
+/*------------------Css phan khungthongtin--------------*/
+.khungthongtin{
+    background-color: #f5f5f5;
+    padding-top: 71px;
+}
+.tieude-1 p {
+    padding-bottom: 20px;
+    color: white;
+    margin:0;
+}
+.tieude-2 p {
+    padding-bottom: 20px;
+    color: white;
+    margin:0;
+}
+.tieude-3 p {
+    padding-bottom: 20px;
+    color: white;
+    margin:0;
+}
+.tieude-4 p {
+    padding-bottom: 20px;
+    color: white;
+    margin:0;
+}
+
+.tieude-1 h2 {
+    padding-top: 26px;
+    color: white;
+    font-weight: 600;
+    margin: 0;
+}
+.tieude-2 h2 {
+    padding-top: 26px;
+    color: white;
+    font-weight: 600;
+    margin: 0;
+}
+.tieude-3 h2 {
+    padding-top: 26px;
+    color: white;
+    font-weight: 600;
+    margin: 0;
+}
+.tieude-4 h2 {
+    padding-top: 26px;
+    color: white;
+    font-weight: 600;
+    margin: 0;
+}
+.bangthongtin h5 {
+    font-size: 16px;
+    color: black;
+    padding-bottom: 38px;
+}
+
+
+.bangthongtin p {
+    color: black;
+    font-size: 14px;
+}
+
+.bangthongtin h4 strike {
+    color: #dddddd;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.bangthongtin h3 {
+    color: #555555;
+    font-weight: 600;
+}
+
+.nutdangky .btn-default {
+    width: 122px;
+    height: 46px;
+    line-height: 2;
+    background: #e62739;
+    color: white;
+    font-weight: 600;
+    border: none;
+}
+
+hr.vienduoi {
+    border-top: 1px solid #d6d4d4;
+    margin: 10px 15px;
+}
+
+.bangthongtin h4 {
+    color: #dddddd;
+}
+
+.bangthongtin {
+    background: white;
+    height: 640px;
+    padding: 32px 4px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-bottom: 71px;
+}
+
+.tieude-1 {
+    background: #b81f83;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.tieude-2 {
+    background: #e62739;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.tieude-3 {
+    background: #ee7a28;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.tieude-4 {
+    background: #5cb85c;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+/*----------------Css phan macode-----------------*/
+.hinhcode img {
+    width: 50%;
+}
+
+.nganhang b {
+    color: #494949;
+}
+
+.khungnoidungmacode p {
+    font-style: italic;
+    font-size: 16px;
+    color: white;
+}
+
+.khungnoidungmacode {
+    background: #e73b3a;
+    padding: 18px 0px;
+    border-radius: 10px;
+}
+
+.khungnoidungmacode h3 {
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+}
+
+.macode h4 {
+    font-size: 14px;
+    color: black;
+    font-weight: 600;
+}
+
+.khungnoidungmacode h4 {
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.nganhang h5 {
+    color: black;
+    font-weight: 600;
+}
+
+.nganhang p {
+    font-size: 15px;
+}
+
+.nganhang i {
+    color: #e62739;
+}
+
+.nganhang {
+    color: black;
+}
+.macode{
+    background: white;
+    padding-top: 72px;
+}
+.noidungmacode {
+    margin-bottom: 70px;
+}
+/*------------------Css phan banerlogan------------*/
+.nutlandipage .btn-default:hover {
+    color: #ba0031;
+    background-color: white;
+    transition: all 0.6s;
+}
+.banerlogan{
+    background: #ec652c;
+}
+.noidungbanner {
+    color: white;
+}
+
+.nutlandipage .btn-default {color: white;background: #ba0031;width: 218px;height: 40px;line-height: 1.5;font-weight: 700;font-size: 16px; border: none;}
+/*------------------------Css phan lienhe--------------*/
+.goingay {
+    color: white;
+}
+
+.tieudelienhe h3 {
+    color: white;
+}
+
+.noidunglienhe {
+    color: white;
+}
+
+.hinhlogothongbao img {
+    width: 30%;
+}
+.lienhe{
+    background: #252422;
+    padding-top: 70px;
+}
+.noidunglienhe p {
+    line-height: 1.5;
+}
+.logo img {
+    width: 42%;
+}
+.hinhlogothongbao img {
+    width: 30%;
+    padding-top: 32px;
+}
+.logo {
+    padding-bottom: 25px;
+}
+.tieudelienhe h3 {
+    padding-bottom: 25px;
+}
+.baivietlienhe{
+    margin-bottom: 72px;
+}
+/*----------Css phan tacgia-----------*/
+.tacgia{
+    background: black;
+    color: white;
+}
+.tacgia h5 a{
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
+/*------------Css nut truot-----------*/
+.nuttruot {
+    cursor: pointer;
+    position: fixed;
+    color: white;
+    background-color: #e62739;
+    width: 48px;
+    height: 48px;
+    line-height: 44px;
+    text-align: center;
+    font-size: 24px;
+    border-radius: 3px;
+    bottom: 30%;
+    right: 15px;
+}
+/*----------------Css di dong-----------*/
+@media (max-width: 768px) {
+
+}
